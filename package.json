@@ -1,0 +1,16 @@
+{
+  "name": "node-zip",
+  "version": "0.1.0",
+  "description": "Corss platform compress or extract `zip` archive",
+  "main": "index.js",
+  "files": ["7z-extra/**/*", "index.js"],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["zip", "node"],
+  "author": "huang.xinghui <huang.x.hui@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "rimraf": "^2.5.3"
+  }
+}
