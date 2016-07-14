@@ -1,5 +1,5 @@
 {
-  "name": "node-zip",
+  "name": "node-zipkit",
   "version": "0.1.0",
   "description": "Corss platform compress or extract `zip` archive",
   "main": "index.js",
