@@ -1,6 +1,6 @@
 {
   "name": "node-zipkit",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Corss platform compress or extract `zip` archive",
   "main": "index.js",
   "files": ["7z-extra/**/*", "index.js"],
