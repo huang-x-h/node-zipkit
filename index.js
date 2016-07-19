@@ -24,7 +24,7 @@ const getUnZipCommand = (archivePath, directoryPath) => {
   if (isWin32()) {
     return `${bin} x -o${directoryPath} ${archivePath}`;
   } else {
-    return `unzip -o ${archivePath} -d ${archivePath}`;
+    return `unzip -o ${archivePath} -d ${directoryPath}`;
   }
 };
 
